@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "intrinsicFRP"]
+	path = intrinsicFRP
+	url = https://github.com/a91quaini/intrinsicfrp
+	shallow = true
+	registered = true
