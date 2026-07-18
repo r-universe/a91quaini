@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AGCA4extremes"]
+	path = AGCA4extremes
+	url = https://github.com/a91quaini/agca4extremes
 [submodule "intrinsicFRP"]
 	path = intrinsicFRP
 	url = https://github.com/a91quaini/intrinsicfrp
